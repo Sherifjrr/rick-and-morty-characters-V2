@@ -182,9 +182,8 @@ const Main = () => {
             : null}
         </ScrollIntoViewIfNeeded>
       </section>
-
       <section className="bg-quote bg-cover">
-        <p className=" text-white text-center font-bold text-2xl md:text-4xl lg:text-6xl pt-2 md:py-8 xl:py-12 ">
+        <p className=" text-white text-center font-bold text-3xl md:text-4xl lg:text-6xl pt-2 md:py-8 xl:py-12 ">
           " You ask a lot of questions, Morty, <br /> Not very charismatic "
         </p>
       </section>
