@@ -6,7 +6,7 @@ A Search Engine For Rick and morty Famous show Characters
 
 ## Live Demo
 
-www.rickandmortycharacters.club
+https://rickandmortycharctersv2.netlify.app/
 
 ## Deployment
 
